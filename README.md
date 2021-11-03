@@ -14,6 +14,12 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/IDE-Arduino_IDE-informational?style=flat&logo=arduino&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Framework-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Framework-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tool-EEGLAB-informational?style=flat&logo=eeglab&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-EEGLAB-informational?style=flat&logo=eeglab&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Office-Notion-informational?style=flat&logo=notion&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Trello-informational?style=flat&logo=trello&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=red)
@@ -40,5 +46,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Resource:
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
