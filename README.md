@@ -1,8 +1,8 @@
-## Hi there! 👋🤓
+# Hi there! 👋🤓
 
 My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, living in Singapore and currently graduating from NUS. 🎓
 
-### 🛠 Technologies & Tools
+## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
@@ -18,17 +18,16 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/Office-Trello-informational?style=flat&logo=trello&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=red)
 
-### 🌱 Currently Learning ..
+## 🌱 Currently Learning
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange)
 
 
-### 👩🏻‍💻📈 Dynamic
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OranattCh&layout=compact&show_icons=true&theme=graywhite)
+## 👩🏻‍💻📈 Dynamic
 ![](https://github-readme-stats.vercel.app/api?username=OranattCh&show_icons=true&theme=graywhite)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OranattCh&theme=graywhite)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OranattCh&layout=compact&show_icons=true&theme=graywhite)
 
 <!--
 **OranattCh/OranattCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
