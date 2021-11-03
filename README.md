@@ -19,7 +19,6 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/Tool-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-scikit_learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-EEGLAB-informational?style=flat&logo=eeglab&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Office-Notion-informational?style=flat&logo=notion&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Trello-informational?style=flat&logo=trello&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=red)
