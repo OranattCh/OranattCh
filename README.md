@@ -24,6 +24,7 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange)
 
 
+### 👩🏻‍💻📈 Dynamic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OranattCh&layout=compact&show_icons=true&theme=graywhite)
 ![](https://github-readme-stats.vercel.app/api?username=OranattCh&show_icons=true&theme=graywhite)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OranattCh&theme=graywhite)
