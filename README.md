@@ -25,7 +25,7 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 
 ## 🌱 Currently Learning
 * **Neural Signal Processing**
-  * Synchronization analysis for functional brain connectivity
+  * Synchronization analysis for functional brain connectivity 🧠👩🏻‍💻
 <!-- ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange) -->
