@@ -24,9 +24,11 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/Office-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=red)
 
 ## 🌱 Currently Learning
-![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=orange)
+* **Neural Signal Processing**
+  * Synchronization analysis for functional brain connectivity
+<!-- ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange) -->
 
 
 ## 👩🏻‍💻📈 Dynamic
