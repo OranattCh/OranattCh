@@ -10,6 +10,7 @@ My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, livin
 ![](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-LaTex-informational?style=flat&logo=latex&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/IDE-MATLAB-informational?style=flat&logo=MATLAB&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=atom&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/IDE-Arduino_IDE-informational?style=flat&logo=arduino&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Framework-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=yellow)
