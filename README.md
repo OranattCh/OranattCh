@@ -1,6 +1,6 @@
 # Hi there! 👋🤓
 
-My name is Oranatt, and I'm an engineer👩🏻‍💻. I'm from Thailand, living in Singapore and recently graduated from NUS. 🎓
+My name is Oranatt, and I'm an engineer graduated from NUS 👩🏻‍💻. I'm from Thailand 🇹🇭, living in Singapore 🇸🇬.
 
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=lightgrey)
