@@ -27,13 +27,12 @@ My name is Oranatt, and I'm a biomedical engineer 👩🏻‍💻. I'm from Thai
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange) -->
 
-
+<!--
 ## 👩🏻‍💻📈 Dynamic
 ![](https://github-readme-stats.vercel.app/api?username=OranattCh&show_icons=true&theme=graywhite)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OranattCh&theme=graywhite)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OranattCh&layout=compact&show_icons=true&theme=graywhite)
 
-<!--
 **OranattCh/OranattCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
