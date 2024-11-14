@@ -1,6 +1,12 @@
 # Hi! 👋🤓
 
-My name is Oranatt, and I'm a biomedical engineer 👩🏻‍💻. I'm from Thailand 🇹🇭, lived in Singapore 🇸🇬, and now doing PhD in the US 🇺🇸!
+I'm a biomedical engineer 👩🏻‍💻 from Thailand 🇹🇭, lived in Singapore 🇸🇬, and now doing PhD in the US 🇺🇸!
+
+## 🌱 Currently Learning
+* 📖 Pursuing PhD in Biomedical Engineering (Neural Engineering and Rehabilitation) @ Case Western Reserve University.
+* 🎓 Conducting research on Prosthesis Embodiment @ the Luke Lab, Human Fusions Institute.
+* 🧠 Neural Signal Processing
+  * Synchronization analysis for functional brain connectivity
 
 ## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=lightgrey)
@@ -20,9 +26,6 @@ My name is Oranatt, and I'm a biomedical engineer 👩🏻‍💻. I'm from Thai
 ![](https://img.shields.io/badge/Office-Trello-informational?style=flat&logo=trello&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Office-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=red)
 
-## 🌱 Currently Learning
-* **Neural Signal Processing**
-  * Synchronization analysis for functional brain connectivity 🧠👩🏻‍💻
 <!-- ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange) -->
